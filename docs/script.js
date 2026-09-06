@@ -10,7 +10,7 @@ const products = [
 
     {
         name: "Explorer - Montblanc",
-        image: "images/montblanc.jpeg",
+        image: "images/montblanc.jpg",
         price: "$531",
         link: "https://www.mercadolibre.com.mx/perfume-montblanc-explorer-100-ml/p/MLM16141387?pdp_filters=item_id%3AMLM1887180221&matt_tool=17030900&ua=ha5fdsIirZxuQfe91X0mYJX8rk1URj6qdkLpUgXx8A53FuU&offer_type=BEST_PRICE"
     },
@@ -18,14 +18,14 @@ const products = [
     {
         name: "Velas aromaticas",
         price: "$258",
-        image: "images/velas.jpeg",
+        image: "images/velas.jpg",
         link: "https://a.co/d/0iQFKzA7"
     },
 
     {
         name: "Calzado senderismo",
         price: "$599",
-        image: "images/senderismo.jpeg",
+        image: "images/senderismo.jpg",
         link: "https://www.decathlon.com.mx/descubre-mas-de-65-deportes/montana/calzado-senderismo"
     },
 
@@ -46,7 +46,7 @@ const products = [
     {
         name: "Taza cool",
         price: "$254",
-        image: "images/taza.jpg",
+        image: "images/taza.avif",
         link: "https://a.co/d/0djFeQME"
     },
 
